@@ -17,5 +17,5 @@
 - I enjoy learning new programming languages
 
 
-# Link to my website is:
+# Link to my website is: https://amah141.github.io/stats220/
 ##
